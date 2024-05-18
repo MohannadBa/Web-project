@@ -1,0 +1,178 @@
+   /*home page*/
+   
+     nav {
+        font-size: 22px;
+        font-family: 'Times New Roman';
+    }
+    a {
+        color: #707eff;
+        text-align: right;
+        text-decoration: none;
+    } 
+    a:hover {
+        text-decoration: underline
+    }
+    
+    .lastp {
+        color: #707eff;
+        text-align: center;
+        font-size: 22pt;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    /*menu*/
+    .char {
+        width: 100%;
+        height: 270px;
+        border-radius: 7px;
+    }
+    .course-container {
+        border-radius: 10px;
+        max-width: 640px;
+        max-height: 500px;
+        margin: auto;
+        margin-bottom: 9px;
+        padding: 15px;
+        background-color: rgb(202, 204, 245);
+        text-align: left;
+
+    }
+    /*resourses page*/
+    table {
+        border: none;
+        width: 70%;
+        height: 300pt;
+        border-radius: 5px;
+        font-size: 23px;
+        font-weight: bold;
+    }
+    th,
+    td {
+        text-align: center;
+        border: groove;
+        border-radius: 5px;
+        border-color: #707eff;
+    }
+    .widhei {
+        width: 100;
+        height: 30;
+    }
+
+    .brief-container {
+        border-radius: 10px;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+        background-color: rgb(202, 204, 245);
+
+    }
+    .centable {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    /*reviews page*/
+    .reviews-container {
+        border-radius: 10px;
+        max-width: 950px;
+        max-height: 500px;
+        margin: auto;
+        margin-bottom: 9px;
+        padding: 15px;
+        background-color: rgb(202, 204, 245);
+        text-align: left;
+    }
+    .photo {
+        width: 80px;
+        height: 90px;
+        margin-left: 850px;
+    }
+    /*about us page*/
+    /**/
+    .about {
+        max-width: auto;
+        padding: 50px;
+    }
+    /*contact us*/
+    .form-container {
+        max-width: auto;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: rgb(192, 195, 246);
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    /* Contact form styles */
+    .contact-form {
+        padding: 40px 0;
+        margin: 0 10px;
+    }
+
+    .contact-form h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-container label {
+        display: block;
+        font-weight: bold;
+        margin: 0;
+        padding: 7px;
+        box-sizing: border-box;
+    }
+
+    .form-container input,
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 1rem;
+        
+        margin: 0;
+        
+       /* box-sizing: border-box;*/
+
+    }
+
+    .submit-button {
+        padding: 10px 20px;
+        background-color: black;
+        border: none;
+        color: white;
+        border-radius: 4px;
+        font-size: 1rem;
+        cursor: pointer;
+    }
+
+    /* Contact info styles */
+    .contact-info {
+        text-align: center;
+        padding: 30px 0;
+        background-color: #f7f7f7;
+    }
+
+    .contact-info h2 {
+        margin-bottom: 20px;
+    }
+
+    /* Footer styles */
+    .price-container {
+        max-width: 70%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: rgb(192, 195, 246);
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    
